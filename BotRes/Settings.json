@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "CollectionURL": "https://opensea.io/collection/yieldnodesnft",
+        "ClientSecretFileName": "Client_Secret_OpenSeaAlertBot.json",
+        "ChatBotToken": "sdfsdfxU",
+        "ChatID": "1dfsdf2",
+        "SpreadSheet": "YN Ratio Sheet",
+        "WorkSheet": "Sheet1",
+        "Ratio": 20,
+        "BUSDPrice": 1
+    }
+}
